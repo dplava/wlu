@@ -1,2 +1,2 @@
 # wlu
-Washington ans Lee repo of QDC metadata for DPLAVA
+Washington and Lee repo of QDC metadata for DPLAVA
