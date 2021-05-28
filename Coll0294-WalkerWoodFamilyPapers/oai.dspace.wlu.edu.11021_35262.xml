@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f014_002 35262</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35262</edm:isShownAt>
+<dcterms:description>This is a form letter originally addressed simply to Gentlemen with a direction to H. L. Walker added.  E. A. Sale, Finance Officer, writes on V.M.I. letterhead to invite bids for supplying meats to V.M.I. for September with the possibility of an extension through October or November.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Seeking Bids to Supply Meat to V.M.I., August 1, 1923</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Family-owned business enterprises</dcterms:subject>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Twentieth century</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/8bd335f0-0017-4c24-b2ba-175ef64baaa3/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f051_004 35298</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35298</edm:isShownAt>
+<dcterms:description>This is a color photocopy of a printed document.  It's a program for a memorial service for the "absent brothers" of the Pride of Rockbidge Lodge, No. 474 and Excelsior Temple, No. 254 of the Benevolent and Protective Order of Elks (B.P.O.E.).</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Program for Memorial Service, December 13, 1925</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Freemasonry -- Lodges</dcterms:subject>
+<dcterms:subject>Elks (Fraternal order)</dcterms:subject>
+<dcterms:subject>Memorial service</dcterms:subject>
+<dcterms:subject>Worship programs</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/f58f837c-f2d9-449e-b409-f7e9bfe9689e/retrieve</edm:preview>
+</mdRecord>

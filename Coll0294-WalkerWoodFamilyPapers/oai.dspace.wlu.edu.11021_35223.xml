@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f100_004 35223</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35223</edm:isShownAt>
+<dcterms:description>These handwritten notes provide some background information about Harry Lee Walker and Eliza Bannister Walker.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Background on Harry Lee Walker and Eliza Bannister Walker</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Walker, Harry Lee</dcterms:subject>
+<dcterms:subject>Walker, Eliza Bannister</dcterms:subject>
+<dcterms:subject>Family histories</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/01c2040c-3efc-46fa-91ec-b8aaa4ff2414/retrieve</edm:preview>
+</mdRecord>

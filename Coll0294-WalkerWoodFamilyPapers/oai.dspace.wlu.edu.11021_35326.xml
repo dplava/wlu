@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b04_f071_013 35326</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35326</edm:isShownAt>
+<dcterms:description>This article, "What's In A Street Name?" by Lindsey S. Wellbacher describes a book by Winifred Hadsel and an accompanying exhibit and lecture.  The book is about how and why the streets of Lexington got their names.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>What's In A Street Name? May 6, 1985</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Street names</dcterms:subject>
+<dcterms:subject>Hadsel, Winifred, 1917-</dcterms:subject>
+<dcterms:subject>Clippings (Books, newspapers, etc.)</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/822a4cbf-856e-489b-a62c-94f993e0650e/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:created>6/26/1995</dcterms:created>
+<dcterms:identifier>WLUColl0294_b05_f123_006 35254</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35254</edm:isShownAt>
+<dcterms:description>This is a photocopy of a one-page opinion piece from Time magazine, June 26, 1995.  The article is "Uncle Tom Justice" (about Supreme Court Justice Clarence Thomas) by Jack E. White.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Uncle Tom Justice, Time magazine, June 26, 1995</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Thomas, Clarence, 1948-</dcterms:subject>
+<dcterms:subject>African Americans</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/df100d18-f6d6-496c-bb87-81edb1e3cc63/retrieve</edm:preview>
+</mdRecord>

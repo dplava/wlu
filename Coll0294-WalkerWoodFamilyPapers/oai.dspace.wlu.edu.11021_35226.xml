@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f008_005 35226</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35226</edm:isShownAt>
+<dcterms:description>This is a folded brochure which was directed "To the Public" as "The Colored Soldier's Appeal" to "help the suffering of our race."  The front includes an image of a Black woman and three Black children.  This is the same image used on a postcard.  In this brochure the individuals pictured are identified as:  "Violet, An Orphan Freak Born without Hands; Mrs. H. L. Walker, Pres. of Lexington's Old Folks Home and Orphanage; Virginia, Cannot Walk; Annie, Cannot Talk."  The inside pages of the brochure include an Orphans' Plea and a Plan for the Building.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>The Colored Soldier's Appeal</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Orphanages</dcterms:subject>
+<dcterms:subject>Rest homes</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Twentieth century</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/64e52c40-495b-492d-bf22-d3def6191c71/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f051_002 35295</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35295</edm:isShownAt>
+<dcterms:description>This is a photocopy of a photograph.  The subject is a large group of Black men.  A printed caption identifies the image as, "The Lexington Lodge No 2461, Grand United Order of Odd Fellows, May 30, 1917."</dcterms:description>
+<dcterms:title>Lexington Lodge, Odd Fellows, May 30, 1917</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Independent Order of Odd Fellows</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/e9e7c4ea-f0d5-4906-a149-3c749b3cadc4/retrieve</edm:preview>
+</mdRecord>

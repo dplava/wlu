@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f104_001 35228</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35228</edm:isShownAt>
+<dcterms:description>This is a printed postcard with the photograph of a football team.  The young man in the center front holds a football with lettering:  "SHAW &amp; V.N.I.I., 11."  Fifteen men wearing uniforms are shown sitting on a set of ourdoor stairs..  Three men in street clothes stand behind the team at the top of the stairs.  There is a handwritten note with arrow pointing out Clarence.  There is a note on the folder containing the postcard:  "Photo of Clarence M. Wood as a football player at Va. Union U., C. 1916-17."  It was addressed to Mr. J. A. Wood, #22 Posher St., Norfolk, Va.  There is a one cent stamp on the card and the postmark reads, ETRICKS, 21 DEC, 8 AM, 1910, VA.</dcterms:description>
+<dcterms:title>Football Team Postcard</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Wood, Clarence M.</dcterms:subject>
+<dcterms:subject>African Americans -- Portraits</dcterms:subject>
+<dcterms:subject>Sports teams</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/4c110dbd-e261-46bb-be60-b78c2712a126/retrieve</edm:preview>
+</mdRecord>

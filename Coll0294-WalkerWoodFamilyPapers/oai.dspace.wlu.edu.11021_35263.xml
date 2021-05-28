@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f006_001 35263</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35263</edm:isShownAt>
+<dcterms:description>This photo shows the front of Blandome. The date NOV 58 was printed in the margin at processing.  Stamped on the reverse is "B 632."</dcterms:description>
+<dcterms:title>Blandome, 1958 (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Dwellings</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/5fc377f6-ecf8-4913-b5ce-b817439d29b9/retrieve</edm:preview>
+</mdRecord>

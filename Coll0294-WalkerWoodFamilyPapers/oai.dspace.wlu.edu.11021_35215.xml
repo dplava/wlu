@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f008_004 35215</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35215</edm:isShownAt>
+<dcterms:description>This postcard shows a Black woman and three Black children sitting on a set of porch steps.  In the lower margin, "Violet" and "Virginia" are written beneath two of the children.  The same image was used in a brochure soliciting donations for the Lexington Old Folks Home and Orphanage.  The address side of the postcard has not been addressed, stamped, or canceled.  There is a handwritten note:  "Mother and people she took in and cared for from the "Poor House"  They ran away from the farm where the poor were kept."  This is immediately followed by another note in slightly different ink:  "Moter of Beatrice Peyton."</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Postcard with Orphans</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Orphanages</dcterms:subject>
+<dcterms:subject>Rest homes</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Twentieth century</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/40f2f521-740d-4647-8c20-f96b1b88a770/retrieve</edm:preview>
+</mdRecord>

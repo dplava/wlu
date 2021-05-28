@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f010_002 35258</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35258</edm:isShownAt>
+<dcterms:description>This photograph shows approximately fifty Black women attending the Convention of the Virginia Federation of Colored Women's Clubs.  The photograph is on card stock.  Two faces have been circled in pencil.  The lower corner includes the note, Convention of F. C. C. June 30 '21.  The back of the photograph includes a few handwritten names and the following notes:  "Rockbridge -- Walker Federation of Colored Women's Club" and "This picture was made just before Marie was born."</dcterms:description>
+<dcterms:title>Convention of the Virginia Federation of Colored Women's Clubs</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Virginia Federation of Colored Women's Clubs</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/e88590eb-3f2d-474e-bca5-3dcd8dd88d05/retrieve</edm:preview>
+</mdRecord>

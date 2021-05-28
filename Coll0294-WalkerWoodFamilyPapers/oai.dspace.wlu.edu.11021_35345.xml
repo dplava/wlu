@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b04_f071_030 35345</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35345</edm:isShownAt>
+<dcterms:description>The 1983 LHS (Lexington High School) Art Club Calendar used original drawings of Lexington and Rockbridge County Scenes by Lexington High School Art Club members.  This is edition VII.</dcterms:description>
+<dcterms:description>The drawing on the front cover is of a statue of Stonewall Jackson.</dcterms:description>
+<dcterms:description>The drawing for January is of "St. Patrick's Catholic Church, Built in 1953" and was done by Jennifer Batty.</dcterms:description>
+<dcterms:description>The drawing for February is of "Blandome, Built in 1827" and was done by David Fitch.</dcterms:description>
+<dcterms:description>The drawing for March is of "VMI Preston Library, Built in 1939" and was done by Matthew Fogo.</dcterms:description>
+<dcterms:description>The drawing for April is of "Tardy's Barn, Built in 1840" and was done by Colby Durham.</dcterms:description>
+<dcterms:description>The drawing for May is of "Main Hall, Southern Seminary Junior College, c. 1892" and was done by Jai Marshall.</dcterms:description>
+<dcterms:description>The drawing for June is of "Alexander's Orchard c. 1778" and was done by Christie Paxton.</dcterms:description>
+<dcterms:description>The drawing for July is of "Timber Ridge Presbyterian Church built in 1756" and was done by Robin Clark.</dcterms:description>
+<dcterms:description>The drawing for August is of "Forest Oaks, Built in 1806" and was done by Jennifer Wise.</dcterms:description>
+<dcterms:description>The drawing for September is of "Washington and Lee University Library, Built in 1980" and was done by Shannon Spencer.</dcterms:description>
+<dcterms:description>The drawing for October is of "Wade's Mill, Built in 1873" and was done by Robin Ludt.</dcterms:description>
+<dcterms:description>The drawing for November is of "Rockbridge Regional Library, Built in 1946" and was done by Rodney Clark.</dcterms:description>
+<dcterms:description>The drawing for December is of "Trinity United Methodist Church, dedicated in 1947" and was done by Renee Branch.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Lexington High School Art Club Calendar, 1983</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Art calendars</dcterms:subject>
+<dcterms:subject>Artists -- Societies and clubs</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/e722507e-30a4-4f03-b28f-87531812d611/retrieve</edm:preview>
+</mdRecord>

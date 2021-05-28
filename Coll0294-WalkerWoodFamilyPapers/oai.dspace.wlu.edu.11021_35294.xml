@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f051_001 35294</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35294</edm:isShownAt>
+<dcterms:description>This is a black and white photocopy of a photograph.  The subjects are a group of men:  three men standing behind four men seated on chairs.  The men have been identified in the margins with handwritten notes:  "Dr. A. W. Pleasants, Will Price, John Thompson, Hugh Williams, Nolan Brooks, Johnson Pettigrew, Judge Fisher."</dcterms:description>
+<dcterms:title>Seven Men:  Pleasants, Price, Thompson, Williams, Brooks, Pettigrew, Fisher</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>African Americans -- Portraits</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/9a05a4bd-04fe-48d6-94b7-4c172c648cab/retrieve</edm:preview>
+</mdRecord>

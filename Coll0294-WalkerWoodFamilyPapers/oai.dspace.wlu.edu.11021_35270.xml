@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f029_001 35270</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35270</edm:isShownAt>
+<dcterms:description>This seems to be brief notes about the history of the Rockbridge Branch of the N.A.A.C.P.  It mentions the organization of the branch on October 1, 1945 by M. F. Kenney and the total membership in 1946 was 255 chartered members.  These notes seem to have been compiled following the Anniversary Dinner on November 30, 1971.  The back of the page includes these handwritten notes:  "Brotherhood week, Anniv Dinner."</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Rockbridge Branch of N.A.A.C.P. History</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>National Association for the Advancement of Colored People</dcterms:subject>
+<dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/706920de-99e5-424e-bff3-c7808ccc6af1/retrieve</edm:preview>
+</mdRecord>

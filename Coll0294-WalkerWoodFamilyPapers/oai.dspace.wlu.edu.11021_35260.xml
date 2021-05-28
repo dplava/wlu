@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f012_001 35260</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35260</edm:isShownAt>
+<dcterms:description>This is a letter from the Committee on Unemployed, signed by Mrs. Eliza Walker, Chairman, and Mrs. Virginia Gilliam, Secretary.  The letter is addressed to "Fellow white citizens of Lexington" and urges the hiring of local citizens and discourages the hiring of "imported servants very often cheaper than the accustomed pay to our local servants."</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Open Letter on Unemployment</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>African Americans -- Employment</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Twentieth century</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/f57fef62-cb4e-4743-b66f-18cd93153158/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f122_001 35246</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35246</edm:isShownAt>
+<dcterms:description>The Governor of Virginia, James H. Price, writes to congratulate Mr. C. Mosby Wood on being appointed Administrator of the Green Pasture Forest Recreation Area.  Handwritten notes which explain the background for the letter are attached.  The notes are signed by Alex B. Wood and a date of June 2007 was added in a different hand.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Governor Price to C. Mosby Wood, July 2, 1940 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Price, James H. (James Hubert), 1878-1943</dcterms:subject>
+<dcterms:subject>Wood, C. Mosby</dcterms:subject>
+<dcterms:subject>African Americans -- Recreation</dcterms:subject>
+<dcterms:subject>Receation areas</dcterms:subject>
+<dcterms:subject>Virginia -- Green Pastures Recreation Areas</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/e009d679-b4bc-4ed4-9d7a-6a3a4214dc65/retrieve</edm:preview>
+</mdRecord>

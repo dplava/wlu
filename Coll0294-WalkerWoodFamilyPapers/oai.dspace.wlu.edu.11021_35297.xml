@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f051_003 35297</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35297</edm:isShownAt>
+<dcterms:description>This is a black and white photocopy of a photograph.  The subjects are a group of men:  four men standing behind five men seated on chairs.  The men in the image have been identified in a handwritten note on the back of the page:   "Jerry Roane, Issac Rowland, Squire Scwemp, Perry Robinson."</dcterms:description>
+<dcterms:description>There is also a black and white photocopy of the same photograph from a printed page.  It looks like this picture was on the lower half of a page.  There is a caption that likely relates to an image above this one.  The printed caption for this image reads, "The august members of a Negro lodge in Lexington pose for Miley in their Sunday best.  (8 x 10. c. 1900)."  There are handwritten notes identifying the men in the image:  "John Gooch, Hugh A. Williams, Will Price, Oceola Coles, Ulysees (?) Judge Fisher, [Harris in a different hand] Sam Jackson (?), Johnson Pettigrew, Julius Bibbs, James Stewart (Shields?)."  There is an additional note in the left margin:  Top to bottom, 1.?, 2. Wms, 3. Price, 4. Coles, 5. Fisher, 6. Jackson, 7. Pettigrew, 8. Bibbs, 9. Stewart.</dcterms:description>
+<dcterms:title>A Negro Lodge by Miley, c. 1900</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>African Americans -- Portraits</dcterms:subject>
+<dcterms:subject>Miley, Michael, 1841-1918</dcterms:subject>
+<dcterms:subject>Freemasonry -- Lodges</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/7bf74a93-31ec-43bb-840d-cb1c33eedb78/retrieve</edm:preview>
+</mdRecord>

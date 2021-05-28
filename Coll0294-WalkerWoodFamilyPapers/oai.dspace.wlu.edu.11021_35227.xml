@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f103_001 35227</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35227</edm:isShownAt>
+<dcterms:description>This is a photograph of Bandome in the snow.  The back of the photograph is blank.</dcterms:description>
+<dcterms:title>Blandome in the Snow (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Dwellings</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/e83f889a-9099-40d5-9f18-9c0abe88a77e/retrieve</edm:preview>
+</mdRecord>

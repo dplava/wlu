@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f101_001 35224</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35224</edm:isShownAt>
+<dcterms:description>This is a color photographic copy of an older photograph.  It's a formal portrait with two women standing behind a woman who is seated and holding a small child.  The back of the photograph includes handwritten notes:  "Nannie Walker, 'Aunt Nin', Cousin Nell Lewis, Hettie Walker, James H. Lewis."</dcterms:description>
+<dcterms:title>Portrait with Infant James H. Lewis (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Wood, Nannie Walker</dcterms:subject>
+<dcterms:subject>African Americans -- Portraits</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<dcterms:subject>Twentieth century</dcterms:subject>
+<dcterms:subject>Lewis, James H.</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/fd0fed22-da87-4a77-925e-6e4e11c11211/retrieve</edm:preview>
+</mdRecord>

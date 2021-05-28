@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f118_001 35243</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35243</edm:isShownAt>
+<dcterms:description>This is a spiral steno pad -- the spiral binding is on the top.  Handwritten on the front are:  Mrs. N. Wood, 1947.  It was used to record various financial transactions -- income from rental property, groceries, as well as expenses incurred in educating her children.  Several years of transactions are recorded, the last being 1952.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Nannie Wood's Accounts Notebook, 1947</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Wood, Nannie Walker</dcterms:subject>
+<dcterms:subject>Account books</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/aefb30f9-51f1-4b19-a2b2-c8397039adb4/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b04_f093_003 35218</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35218</edm:isShownAt>
+<dcterms:description>This is a black and white photocopy of a photograph.  The handwritten caption seems to have been added to the top margin of the original photograph and it reads:  "Henry St. looking East from Main St."  There is no date but the picture includes horse-drawn buggies.</dcterms:description>
+<dcterms:title>Henry Street Looking East (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/f36b73f7-fbcb-42ff-9d9a-b11d00b6caa2/retrieve</edm:preview>
+</mdRecord>

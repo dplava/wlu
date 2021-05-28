@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f038_007 35278</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35278</edm:isShownAt>
+<dcterms:description>This is a poem, "Aunt Chloe Quarrels Over the Campaign," written out in a "clean copy" with handwriting on one side of each sheet of paper.  There is also a transparency with the poem, "Aunt Chloe Quarrels Over the Campaign" by Mrs. Eliza Walker with a handwritten note attached.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Aunt Chloe Quarrels Over the Campaign, Handwritten</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>American poetry -- African American authors</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/d2360855-ddba-44aa-a72a-b481443212a1/retrieve</edm:preview>
+</mdRecord>

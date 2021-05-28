@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b04_f093_001 35217</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35217</edm:isShownAt>
+<dcterms:description>This is a black and white photocopy of a photograph of buildings on a street corner.  The handwritten caption reads:  "Corner of Henry across from 1st Bapt.  2002 -- yards of two fraternity houses, visible above.  A handwritten note was attached to the photocopy:  "Old McKemy Brothers Mom and Pop store across from First Bapt. Church at Henry and North Main Streets.</dcterms:description>
+<dcterms:title>Corner of Henry across from 1st Bapt., 2002 (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Virginia -- Lexington</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/8bad7504-a044-454e-a1c7-5108187cfe3e/retrieve</edm:preview>
+</mdRecord>

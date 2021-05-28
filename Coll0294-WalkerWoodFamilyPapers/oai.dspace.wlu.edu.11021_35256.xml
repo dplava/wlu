@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:created>2/12/2001</dcterms:created>
+<dcterms:identifier>WLUColl0294_b05_f123_008 35256</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35256</edm:isShownAt>
+<dcterms:description>This article is titled, "Today's blacks too distant from slavery?  Think again" and was written by DeWayne Wickham.  It appeared in USA Today on Monday, February 12, 2001.  The subject is the call for reparations to descendants of slaves.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Today's blacks too distant from slavery?  Think again, USA Today, February 12, 2001</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Reparations for historical injustices</dcterms:subject>
+<dcterms:subject>African Americans</dcterms:subject>
+<dcterms:subject>Slavery</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/80faa2f3-2eac-4c82-a9f1-cb4ffb873974/retrieve</edm:preview>
+</mdRecord>

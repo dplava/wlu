@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
+<dcterms:created>10/16/1958</dcterms:created>
+<dcterms:identifier>WLUColl0294_b04_f071_025 35339</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35339</edm:isShownAt>
+<dcterms:description>In this letter from Richard R. Fletcher, Executive Secretary, to Mrs. C. M. Wood he thanks her for sharing a piece of the original rose plant which prompted the Sigma Nu national fraternity to name it as their official flower.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Note of Thanks for Rose Bush, September 9, 1958</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Roses</dcterms:subject>
+<dcterms:subject>Blandome (Lexington, Va.)</dcterms:subject>
+<dcterms:subject>Sigma Nu</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/8db9fea3-43d1-4969-b246-00794dfd79fb/retrieve</edm:preview>
+</mdRecord>
