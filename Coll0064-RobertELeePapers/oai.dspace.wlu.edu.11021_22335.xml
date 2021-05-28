@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1865-10-06</dcterms:created>
+<dcterms:identifier>WLUcoll064_b02_f128_01 22335</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22335</edm:isShownAt>
+<dcterms:description>Lee corresponds with a possible publisher for his proposed written history of the Army of Northern Virginia - which ultimately was never written - at least by Lee. This letter was found in Lee's desk in his office within the chapel after he died. It is likely an unsent draft.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Soldiers Relief Association (Columbia, S.C.)</dcterms:subject>
+<dcterms:subject>Thank-you notes</dcterms:subject>
+<dcterms:title>Letter to Joseph S. Topham &amp; Co., October 6, 1865 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/631b2bd9-3600-4224-8240-64cd0ca22736/retrieve</edm:preview>
+</mdRecord>

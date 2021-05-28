@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1858-07-31</dcterms:created>
+<dcterms:identifier>WLUcoll064_b01_f39_01 21193</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21193</edm:isShownAt>
+<dcterms:description>Lee informs McDowell of his change of address while on leave in Arlington, Va.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>United States. Army. Cavalry, 2nd</dcterms:subject>
+<dcterms:title>Letter to Major Irvin McDowell, July 31, 1858 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/8a8cc343-fe75-4d3f-b3df-2758438a4c49/retrieve</edm:preview>
+</mdRecord>

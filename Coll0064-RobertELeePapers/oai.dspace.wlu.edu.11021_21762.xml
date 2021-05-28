@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1864-04-23</dcterms:created>
+<dcterms:identifier>WLUcoll064_b02_f89_01 21762</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21762</edm:isShownAt>
+<dcterms:description>Lee discusses the  Federal Army's troop movements and forecasts its objectives. He also mentions the status of a number of Confederate generals.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:subject>Confederate States of America -- History, Military</dcterms:subject>
+<dcterms:subject>Averell, William Woods, 1832-1900</dcterms:subject>
+<dcterms:subject>Breckinridge, John C. (John Cabell), 1821-1875</dcterms:subject>
+<dcterms:subject>Early, Jubal Anderson, 1816-1894</dcterms:subject>
+<dcterms:subject>Hoke, Robert F. (Robert Frederick), 1837-1912</dcterms:subject>
+<dcterms:subject>Imboden, John D. (John Daniel), 1823-1895</dcterms:subject>
+<dcterms:subject>Johnston, Robert D. (Robert Daniel), 1837 - 1919</dcterms:subject>
+<dcterms:subject>Longstreet, James, 1821-1904</dcterms:subject>
+<dcterms:subject>Rodes, Robert Emmett, 1829-1864</dcterms:subject>
+<dcterms:title>Letter to (C.S.A.) President Jefferson Davis, April 23, 1864 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/592ddc08-2828-41de-b510-815957ce674d/retrieve</edm:preview>
+</mdRecord>

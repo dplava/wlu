@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1864-04-16</dcterms:created>
+<dcterms:identifier>WLUcoll064_b02_f86_01 21611</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21611</edm:isShownAt>
+<dcterms:description>Lee orders Long to move his artillery.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Long, A. L. (Armistead Lindsay), 1827-1891</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:title>Letter to General Armistead L. Long, April 16, 1864 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/893b744f-1ae6-429a-940f-0b2ae73cf0a8/retrieve</edm:preview>
+</mdRecord>

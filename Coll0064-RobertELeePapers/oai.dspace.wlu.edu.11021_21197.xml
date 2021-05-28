@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1861-07-24</dcterms:created>
+<dcterms:identifier>WLUcoll064_b01_f48_01 21197</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21197</edm:isShownAt>
+<dcterms:description>Lee thanks Ellis for a gift of books.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Ellis, Thomas H. (Thomas Harding), 1814-1898</dcterms:subject>
+<dcterms:subject>Books</dcterms:subject>
+<dcterms:subject>Thank-you notes</dcterms:subject>
+<dcterms:title>Letter to Colonel Thomas H. Ellis, July 24, 1861 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/665cf07b-9e9f-4820-a52c-db0f33ff5461/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1853-03-29</dcterms:created>
+<dcterms:identifier>WLUcoll064_b01_f22_01 20903</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/20903</edm:isShownAt>
+<dcterms:description>Lee writes to Jacob Fort to explain that his son, Cadet Edward J. Fort, is very ill in the West Point Hospital. Cadet Fort died on June 15, 1853.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Fort, Jacob J.</dcterms:subject>
+<dcterms:subject>United States Military Academy</dcterms:subject>
+<dcterms:subject>Diseases</dcterms:subject>
+<dcterms:title>Letter to Jacob J. Fort Esq., March 29, 1853 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/d0565848-587a-4275-8d27-efd75f33e17d/retrieve</edm:preview>
+</mdRecord>

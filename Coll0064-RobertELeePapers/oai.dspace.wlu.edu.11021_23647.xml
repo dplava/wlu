@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1869-01-22</dcterms:created>
+<dcterms:identifier>WLUcoll064_b04_f245_01 23647</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/23647</edm:isShownAt>
+<dcterms:description>Lee, in response to a letter of Representative Chester D. Hubbard, of Wheeling, West Virginia, clarifies information regarding a letter he had written to Gen. Rosecrans in August of 1868.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Rosecrans, William S. (William Starke), 1819-1898</dcterms:subject>
+<dcterms:subject>Hubbard, C. D. (Chester Dorman), 1814-1891</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:title>Letter to Chester D. Hubbard, January 22, 1869 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/d217dc22-4423-4b2e-8070-209457d57e37/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1862-04-25</dcterms:created>
+<dcterms:identifier>WLUcoll064_b01_f56_01 21230</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21230</edm:isShownAt>
+<dcterms:description>This letter poses interesting questions. It presumably is a response to General Jackson on the subject of a missed photographic appointment. Why would Jackson be concerned about photography as he is in the midst of his Valley Campaign. Is this  a disguised or coded message  with a different meaning? or could the "General Jackson" referred here  be one of the other Confederate "General Jacksons"?</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Jackson, Stonewall, 1824-1863</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:title>Letter to General Thomas J. "Stonewall" Jackson, April 25, 1862 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/831e01f4-5dd8-4ca2-a5f1-1d73016032f6/retrieve</edm:preview>
+</mdRecord>

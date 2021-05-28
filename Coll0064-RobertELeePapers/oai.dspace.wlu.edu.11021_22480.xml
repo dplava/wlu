@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1867-12-24</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f208_01 22480</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22480</edm:isShownAt>
+<dcterms:description>Lee writes Fisher to ask that he assist him with legal council on issues (likely resulting from the late war) pertaining to who held ownership of Smith's Island, Va., which had been owned by the Custis family for over 100 years.  Lee, as executor of the Custis estate, was ultimately planning to sell the island.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Fisher, Miers W.</dcterms:subject>
+<dcterms:subject>Custis family</dcterms:subject>
+<dcterms:subject>Distribution of decedents' estates</dcterms:subject>
+<dcterms:subject>Smiths Island (Va.)</dcterms:subject>
+<dcterms:title>Letter to Miers W. Fisher, Esq., December 24, 1867 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/61aad549-b98d-465b-a2f4-343328a01594/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1866-04</dcterms:created>
+<dcterms:identifier>WLUcoll0064_b03_f157a_001 19189</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19189</edm:isShownAt>
+<dcterms:description>Though this document is signed by Lee, it is not in his hand.  Lee, along with members of the Board of Trustees, signs a document calling for changes in the grounds in the front of the college.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Barclay, Hugh</dcterms:subject>
+<dcterms:subject>Leyburn, Alfred, 1803-1878</dcterms:subject>
+<dcterms:subject>Washington College (Lexington, Va.) -- Landscape architecture</dcterms:subject>
+<dcterms:subject>Washington College (Lexington, Va.) -- Trustees</dcterms:subject>
+<dcterms:subject>Ruffner, William Henry, 1824-1908</dcterms:subject>
+<dcterms:title>Report from the Committee on Buildings and Grounds to the Board of Trustees of Washington College, April 1866</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/272802db-36d7-4eb7-8c77-f7a539a8e88b/retrieve</edm:preview>
+</mdRecord>

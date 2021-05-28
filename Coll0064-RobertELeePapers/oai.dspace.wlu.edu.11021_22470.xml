@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1867-11-16</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f205_01 22470</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22470</edm:isShownAt>
+<dcterms:description>Lee contracts with Lexington cabinet maker A. W. Varner for the construction of dining room tables for the Washington College Hotel.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Varner, A. W.  (Andrew W.)</dcterms:subject>
+<dcterms:subject>Washington and Lee University -- History</dcterms:subject>
+<dcterms:subject>Office furniture -- 1860-1870 -- Washington College (Lexington, Va.)</dcterms:subject>
+<dcterms:title>Contract to Andrew W. Varner, November 16, 1867</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/00e71d13-11f4-488d-b30e-c1e5654c4068/retrieve</edm:preview>
+</mdRecord>

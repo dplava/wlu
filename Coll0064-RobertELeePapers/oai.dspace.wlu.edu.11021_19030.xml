@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1864-04-30</dcterms:created>
+<dcterms:identifier>WLUcoll064_b02_f91_01 19030</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19030</edm:isShownAt>
+<dcterms:description>As Lee prepares to move his army, and with the well being of a "live" gift soon to be in peril, Lee explains that the chicken that Mr. Robertson had given him would be returned.</dcterms:description>
+<dcterms:description>The files available include a transcript and an image file which was created by scanning the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Robertson, Blair</dcterms:subject>
+<dcterms:subject>Thank-you notes</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army -- Military life</dcterms:subject>
+<dcterms:subject>Thank-you notes</dcterms:subject>
+<dcterms:title>Letter to Blair Robertson, April 30, 1864 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/a7c51c70-28ae-4058-995d-9249ba7ad106/retrieve</edm:preview>
+</mdRecord>

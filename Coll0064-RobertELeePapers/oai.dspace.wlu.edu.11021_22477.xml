@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1867-11-22</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f206_01 22477</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22477</edm:isShownAt>
+<dcterms:description>Lee asks that his regrets be offered to Miss Norvell's parents, as he has to decline their invitation to stay with them during his trip to Richmond. Lee had received a subpoena to appear in "Mr. Davis'" U.S. District Court case. This is presumably Jefferson Davis.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Caskie, M. Norvell</dcterms:subject>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Family</dcterms:subject>
+<dcterms:subject>Davis, Jefferson, 1808-1889 -- Trials, litigation, etc.</dcterms:subject>
+<dcterms:title>Letter to Miss Martha Norvell Caskie, November 22, 1867 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/6992f9c1-5c93-4453-a803-aa2c2ce0cead/retrieve</edm:preview>
+</mdRecord>

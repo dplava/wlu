@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1866-03-06</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f153_01 22345</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22345</edm:isShownAt>
+<dcterms:description>At the request of Robert H. Chilton's friends, and specifically for Reuben Johnston, Lee appraises the former U.S. Army officer and former Confederate general.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Johnston, Reuben</dcterms:subject>
+<dcterms:subject>Chilton, R. H. (Robert Hall), 1816-1879</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army. General Staff</dcterms:subject>
+<dcterms:title>Letter to Honorable Reuben Johnston, March 6, 1866 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/14edd860-0dda-4e43-bcb4-4f6096b8e17f/retrieve</edm:preview>
+</mdRecord>

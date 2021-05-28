@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1870-02-15</dcterms:created>
+<dcterms:identifier>WLUcoll064_b04_f278_01 23673</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/23673</edm:isShownAt>
+<dcterms:description>Lee explains the benefits that Virginia has to offer to potential English immigrants.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Hay, Emily</dcterms:subject>
+<dcterms:subject>Smith, Goldwin, 1823-1910</dcterms:subject>
+<dcterms:subject>Virginia -- Emigration and immigration -- History -- 19th century</dcterms:subject>
+<dcterms:title>Letter to Mrs. Emily Hay, February 15, 1870 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/7102f69d-68ad-47ae-89fa-7041cb496567/retrieve</edm:preview>
+</mdRecord>

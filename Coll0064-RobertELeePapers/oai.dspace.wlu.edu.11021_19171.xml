@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1866-01-24</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f148_01 19171</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19171</edm:isShownAt>
+<dcterms:description>Lee writes to Reverend Gibson on filling the position of Chair of Mental and Moral Philosophy at Washington College. Lee provides Gibson with what model characteristics a potential candidate must exhibit.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Gibson, Churchill</dcterms:subject>
+<dcterms:subject>Atkinson, Joseph M. (Joseph Mayo), 1820-1891</dcterms:subject>
+<dcterms:subject>Atkinson, John Mayo Pleasants, 1817-1883</dcterms:subject>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Family</dcterms:subject>
+<dcterms:subject>Washington College (Lexington, Va.) -- Faculty</dcterms:subject>
+<dcterms:subject>Religious education</dcterms:subject>
+<dcterms:subject>Moral education</dcterms:subject>
+<dcterms:title>Letter to Reverend Churchill Gibson, January 24, 1866 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/b6c09e8c-c616-4b4d-a2a4-d2d6ea532d71/retrieve</edm:preview>
+</mdRecord>

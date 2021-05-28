@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1866-02-26</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f152_01 19184</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19184</edm:isShownAt>
+<dcterms:description>Lee writes to the Virginia General Assembly's Speaker of the House, John B. Baldwin, of Augusta County, on the importance of extending the Virginia Central Railroad to the Ohio River.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Railroads -- Virginia -- History -- 19th century</dcterms:subject>
+<dcterms:subject>Transportation -- Virginia -- History</dcterms:subject>
+<dcterms:subject>Virginia Central Railroad Company</dcterms:subject>
+<dcterms:subject>James River and Kanawha Canal (Va.)</dcterms:subject>
+<dcterms:title>Letter to John B. Baldwin, February 26, 1866 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/364ac72c-6a81-4658-b8d4-5989ac98a55f/retrieve</edm:preview>
+</mdRecord>

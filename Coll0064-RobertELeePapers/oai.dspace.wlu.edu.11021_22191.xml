@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1865-09-25</dcterms:created>
+<dcterms:identifier>WLUcoll064_b02_f126_01 22191</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22191</edm:isShownAt>
+<dcterms:description>In a letter to a former Confederate Congressman from Kentucky, Lee acknowledges his new position as President of Washington College, and turns down the former representative's undisclosed offer (possible business deal or employment opportunity).</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Bruce, E.M. (Eli Metcalfe)</dcterms:subject>
+<dcterms:subject>Washington College (Lexington, Va.) -- History -- 19th century</dcterms:subject>
+<dcterms:subject>Washington College (Lexington, Va.) -- Presidents</dcterms:subject>
+<dcterms:title>Letter to Honorable Eli Metcalfe (E. M.) Bruce, September 25, 1865 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/16079b9f-a74e-4817-a77d-47ed9d1cd3ac/retrieve</edm:preview>
+</mdRecord>

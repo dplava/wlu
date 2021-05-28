@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1867-05-15</dcterms:created>
+<dcterms:identifier>WLUcoll0064_b03_f193a_001 22450</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22450</edm:isShownAt>
+<dcterms:description>Having been elected "Chairman of the Committee on School Discipline," Lee pens the draft of a report on the subject for the Educational Association of Virginia's annual meeting. He outlines his principles on youth education. He further describes teacher/professor attributes and teaching/parenting dynamics.  Also included is the certificate appointing Lee to chair the Committee on School Discipline.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Honor</dcterms:subject>
+<dcterms:subject>School discipline -- Virginia -- History</dcterms:subject>
+<dcterms:subject>Education, Higher -- Moral and ethical aspects</dcterms:subject>
+<dcterms:title>Committee Report (Draft) to Association of Virginia Education, (before) May 15, 1867</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/5842a965-6382-4615-901d-b3e8dbffd4db/retrieve</edm:preview>
+</mdRecord>

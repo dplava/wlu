@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:created>1866-06-29</dcterms:created>
+<dcterms:identifier>WLUcoll064_b03_f167_01 22350</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22350</edm:isShownAt>
+<dcterms:description>Lee sends an order to Edmondson, Washington College Treasurer, to send funds to faculty member Edward S. Joynes for books.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Washington College (Lexington, Va.) -- Faculty</dcterms:subject>
+<dcterms:subject>Joynes, Edward S. (Edward Southey), 1834-1917</dcterms:subject>
+<dcterms:subject>Edmondson, James K., 1832-1898</dcterms:subject>
+<dcterms:title>Financial document to James K. Edmondson, June 29, 1866</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/12f0daf9-ee3d-4d68-b826-09aa206780f2/retrieve</edm:preview>
+</mdRecord>
