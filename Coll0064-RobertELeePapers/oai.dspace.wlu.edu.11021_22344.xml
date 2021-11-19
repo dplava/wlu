@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1866-01-26</dcterms:created>
-<dcterms:identifier>WLUcoll064_b03_f150_01 22344</dcterms:identifier>
+<dcterms:identifier>WLUcoll0064_b03_f150_01</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22344</edm:isShownAt>
-<dcterms:description>Lee thanks Longstreet for providing him with his new business card. He expects that Longstreet will be successful in his new business, and sends further well wishes.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:title>Letter to Longstreet, Owens, and Co., January 26, 1866 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>

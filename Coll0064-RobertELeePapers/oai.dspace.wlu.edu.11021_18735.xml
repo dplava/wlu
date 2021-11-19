@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1862-08-08</dcterms:created>
-<dcterms:identifier>WLUcoll064_b01_f63_01 18735</dcterms:identifier>
+<dcterms:identifier>WLUcoll0064_b01_f63_01</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/18735</edm:isShownAt>
-<dcterms:description>Robert E. Lee offers well wishes to Col. Samuel Bassett French as he leaves to report to General Thomas J. Jackson. Lee comments on French's advice that he make time to visit with his troops.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>French, Samuel Bassett, 1820-1898</dcterms:subject>
 <dcterms:subject>Jackson, Stonewall, 1824-1863</dcterms:subject>

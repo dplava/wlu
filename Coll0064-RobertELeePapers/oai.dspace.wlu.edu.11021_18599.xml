@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1845-11-27</dcterms:created>
-<dcterms:identifier>WLUcoll064_b01_f08_01 18599</dcterms:identifier>
+<dcterms:identifier>WLUcoll0064_b01_f08_01</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/18599</edm:isShownAt>
-<dcterms:description>Lee sends his regrets as he and his wife are unable to attend the marriage of Ms. Julia Gratiot to Charles P. Choutea. Julia was the daughter of General Charles P. Gratiot of the Army's Corps of Engineers, one of Lee's former ranking officers.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Gratiot, Julia</dcterms:subject>
 <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Correspondence</dcterms:subject>

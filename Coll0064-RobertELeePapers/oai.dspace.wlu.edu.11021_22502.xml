@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1868-03-02</dcterms:created>
-<dcterms:identifier>WLUcoll064_b03_f215_01 22502</dcterms:identifier>
+<dcterms:identifier>WLUcoll0064_b03_f215_01</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22502</edm:isShownAt>
-<dcterms:description>This letter is not in Lee's hand, though it is signed by him. Lee replies to General Frazar, appointed head of the Lexington office of the Virginia Freedmen's Bureau, on the subject of a student (Mr. Lusk - likely Thomas C. Lusk - Washington College class of 1870) who has an unpaid debt to a Lexington African-American man (freedman).</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Lusk, Thomas C.</dcterms:subject>
 <dcterms:subject>Johnson, Henry</dcterms:subject>

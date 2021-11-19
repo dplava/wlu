@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1852-09-01</dcterms:created>
-<dcterms:identifier>WLUcoll064_b01_f17_01 20901</dcterms:identifier>
+<dcterms:identifier>WLUcoll0064_b01_f17_01</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/20901</edm:isShownAt>
-<dcterms:description>This letter informs Totten of Lee's appointment as superintendent of West Point.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Totten, Joseph Gilbert, 1788-1864</dcterms:subject>
 <dcterms:subject>United States Military Academy</dcterms:subject>
