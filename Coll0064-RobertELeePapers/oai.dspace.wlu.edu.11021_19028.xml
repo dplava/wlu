@@ -3,6 +3,7 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
 <dcterms:created>1864-03-08</dcterms:created>
 <dcterms:identifier>WLUcoll0064_b02_f84_01</dcterms:identifier>
