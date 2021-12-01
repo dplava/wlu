@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f053_014</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35502</edm:isShownAt>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Deacon Rosa Jeanette Scott Harris and Mary Jane Patterson, ca. 2012</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Harris, Rosa Jeanette Scott</dcterms:subject>
+<dcterms:subject>Patterson, Mary Jane</dcterms:subject>
+<dcterms:subject>Biography</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/9d2752a2-5de4-4b19-93ef-5d62ee2f74ef/retrieve</edm:preview>
+</mdRecord>

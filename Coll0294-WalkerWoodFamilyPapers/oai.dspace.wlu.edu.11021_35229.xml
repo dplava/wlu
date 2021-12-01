@@ -3,14 +3,13 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f105_001 35229</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f105_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35229</edm:isShownAt>
-<dcterms:description>This is a black and white photograph on heavy stock.  Eight men are seated, cross-legged, on the ground.  Ten men stand behind them.  Most are wearing white coats and black bow ties.  Two are wearing what appear to be tuxedos.  They appear to be dining room workers.  The back of the photograph has a handwritten note:  "Summer employment for college $$."  The folder containing this photograph has the note:  "Clarence M. making money for college dollars, c. 1917."</dcterms:description>
 <dcterms:title>Summer Employment, c. 1917 (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>African Americans -- Portraits</dcterms:subject>
 <dcterms:subject>Summer employment</dcterms:subject>
-<dcterms:subject>Wood, Clarence M.</dcterms:subject>
+<dcterms:subject>Wood, Clarence M. (Clarence Mosby)</dcterms:subject>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/c632521a-2e79-42ba-b331-c09176ebda25/retrieve</edm:preview>
 </mdRecord>

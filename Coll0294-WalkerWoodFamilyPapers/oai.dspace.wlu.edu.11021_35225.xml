@@ -3,12 +3,12 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f102_002 35225</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f102_002</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35225</edm:isShownAt>
-<dcterms:description>This is one of two copies of a printed postcard.  The photograph is of Blandome with a man and woman seated in the yard at the bottom of the porch steps. The message side of the postcard is addressed to Mr. E. G. Wood, Stormout, Va. (Middlesex Co.).  There is a handwritten note in addtion to the orginal message:  "June 1919."  There is no stamp and no cancellation.</dcterms:description>
-<dcterms:title>Blandome Postcard, c. 1919</dcterms:title>
-<dcterms:type>Image</dcterms:type>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Blandome Postcard, c. 1919 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
 <dcterms:subject>Virginia -- Lexington</dcterms:subject>
 <dcterms:subject>Dwellings</dcterms:subject>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/34a4b507-b2f9-4946-ae24-3e5fbc9d2fc6/retrieve</edm:preview>

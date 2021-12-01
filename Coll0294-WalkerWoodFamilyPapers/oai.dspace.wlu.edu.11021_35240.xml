@@ -3,12 +3,11 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f116_001 35240</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f116_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35240</edm:isShownAt>
-<dcterms:description>This bank book was issued to H. L. Walker by The Peoples National Bank, Lexington, Va.  Most of the pages are blank.  Any pages with entries or notes have been scanned.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
-<dcterms:title>H. L. Walker's Bank Book</dcterms:title>
+<dcterms:title>H. L. Walker's Bank Book, August 6, 1940</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <dcterms:subject>Walker, Harry Lee</dcterms:subject>
 <dcterms:subject>Account books</dcterms:subject>

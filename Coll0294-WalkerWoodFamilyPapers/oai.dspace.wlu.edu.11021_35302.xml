@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b02_f056_001 35302</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f056_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35302</edm:isShownAt>
-<dcterms:description>This black and white photograph shows the Walker &amp; Wood Bros. store with three men standing on the porch.  The back of the photograph has a handwritten note:  "Clarence, Jo and H. L. Walker."</dcterms:description>
-<dcterms:title>Walker &amp; Wood Bros. Store</dcterms:title>
+<dcterms:title>Walker &amp; Wood Bros. Store (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>African Americans</dcterms:subject>
 <dcterms:subject>Small business</dcterms:subject>

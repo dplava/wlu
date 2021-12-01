@@ -3,11 +3,10 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b02_f051_005 35299</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f051_005</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35299</edm:isShownAt>
-<dcterms:description>This photograph shows approximately fifty Black women attending the Convention of the Virginia Federation of Colored Women's Clubs.  The photograph is on card stock.  The lower corner includes the note, Convention of F. C. C. June 30 '21.  The the back of the photograph includes a printed note:  "Miller's Studio, Commercial Phography, LEXINGTON, VA."   There are also a few handwritten notes:  "Lexington Chapter, Hostess -- Sunshine [?} from Stonewall Jackson Hospital.  (Colored Federation)" and "J. T. Miller" and "June 30, '21, Just before Marie was born."</dcterms:description>
-<dcterms:title>Convention of the Virginia Federation of Colored Women's Clubs, June 30, 1921</dcterms:title>
+<dcterms:title>Convention of the Virginia Federation of Colored Women's Clubs, June 30, 1921 (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>Virginia Federation of Colored Women's Clubs</dcterms:subject>
 <dcterms:subject>Virginia -- Lexington</dcterms:subject>

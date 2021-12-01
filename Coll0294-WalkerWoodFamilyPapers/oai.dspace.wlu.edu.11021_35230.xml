@@ -3,14 +3,13 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f106_001 35230</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f106_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35230</edm:isShownAt>
-<dcterms:description>This is a set of three phtographs on one piece of heavy stock.  From left to right, a front portrait, a building, and a left profile.  The back of the photograph has several faint handwritten notes.  There is also a stamp for "Geo. W. Brown, Photographer."  The folder containing the photograph notes that this is "Clarence M. Wood at Va. Union U., 1918?"</dcterms:description>
 <dcterms:title>Clarence M. Wood at Va. Union U., c. 1918 (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>African Americans -- Portraits</dcterms:subject>
-<dcterms:subject>Wood, Clarence M.</dcterms:subject>
+<dcterms:subject>Wood, Clarence M. (Clarence Mosby)</dcterms:subject>
 <dcterms:subject>Virginia Union University (Richmond, Va.)</dcterms:subject>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/7dc135b8-4397-46a1-bf61-025a79f76feb/retrieve</edm:preview>
 </mdRecord>

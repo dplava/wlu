@@ -3,10 +3,9 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b01_f018_001 35264</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f018_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35264</edm:isShownAt>
-<dcterms:description>This sepia-toned photo on card stock shows 12 Black adults.  There are six men standing with six women sitting on chairs in front of them.   The back of the photo has a list of names:  Perry Robinson, Duc Richardson, Clarence Slood, Ira Hawkins, Al Morrison, Shellie Dock, Nannie Hood, Kessie Banks, Eliza Shalkor, Leana Clark, Gladys Washington, Daisy Evans.</dcterms:description>
 <dcterms:title>Group Portrait, Men and Women (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>Photographs</dcterms:subject>

@@ -3,10 +3,9 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f107_001 35231</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f107_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35231</edm:isShownAt>
-<dcterms:description>This small black and white photograph shows fifteen people posed on the front steps of Blandome.  Handwritten notes on the back of the photograph and on the folder containing the photograph identify some of the people:  Front row; left to right.  Harry Walker Wood, Marie, Clarence Jr, Bette Jo, Alex, Nannie.  Harry Walker is behind Nannie.  De Priest is in back row (white hair).  Clarence M. is back row left.  Mamie Jones behind Harry Walker Wood.</dcterms:description>
 <dcterms:title>Family Portrait of 15 at Blandome (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
 <dcterms:subject>African Americans -- Portraits</dcterms:subject>

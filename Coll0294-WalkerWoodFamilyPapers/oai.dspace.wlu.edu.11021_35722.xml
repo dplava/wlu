@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b03_f066_009</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35722</edm:isShownAt>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Agreement to Pay Tuition For High School, May 31, 1934</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>African Americans -- Education</dcterms:subject>
+<dcterms:subject>African American schools</dcterms:subject>
+<dcterms:subject>African American teachers</dcterms:subject>
+<dcterms:subject>Virginia – Lexington</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/46a4b249-8339-4b94-be9f-29ad74f514b1/retrieve</edm:preview>
+</mdRecord>

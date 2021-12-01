@@ -3,13 +3,12 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b05_f109_001 35233</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b05_f109_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35233</edm:isShownAt>
-<dcterms:description>This black and white photograph shows one person holding a piece of paper so that the surrounding five people can see it.  There is a handwritten note in the lower margin:  "Sweepstake 6/7/47."  The back of the photograph has several handwritten notes:  "Sweepstake June 1, 1947" and "Clarence won 2nd place in Irish Sweepstakes, c. $47,000" and other notes.</dcterms:description>
-<dcterms:title>Sweepstake (photograph)</dcterms:title>
+<dcterms:title>Sweepstake, June 7, 1947 (photograph)</dcterms:title>
 <dcterms:type>Image</dcterms:type>
-<dcterms:subject>Wood, Clarence M.</dcterms:subject>
+<dcterms:subject>Wood, Clarence M. (Clarence Mosby)</dcterms:subject>
 <dcterms:subject>African Americans -- Portraits</dcterms:subject>
 <dcterms:subject>Sweepstakes</dcterms:subject>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/6e10888c-aeba-4590-9b54-0e29ecc065aa/retrieve</edm:preview>

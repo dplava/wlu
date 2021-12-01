@@ -3,13 +3,12 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b01_f038_006 35277</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f038_006</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35277</edm:isShownAt>
-<dcterms:description>The front page of this document has lines crossed out and writing in the margins.  The back of the page has only a few lines.  It seems to be work on a poem.  One line reads, "Rusevelt dun just what he sayed . . . "</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:title>Gold Star Mother, Draft 2</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <dcterms:subject>American poetry -- African American authors</dcterms:subject>
-<edm:preview>https://dspace.wlu.edu/rest/bitstreams/94bfa7cf-bcb2-45f2-91f7-5f595468366e/retrieve</edm:preview>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/d4989b90-12e0-47db-bb5b-30a0b9507643/retrieve</edm:preview>
 </mdRecord>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f053_007</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35533</edm:isShownAt>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>First Baptist Church, Main at Henry Street, September 26, 1976</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>First Baptist Church (Lexington, Va.)</dcterms:subject>
+<dcterms:subject>Church anniversaries</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/642b5a83-433c-4154-a2f8-bdea21f954c6/retrieve</edm:preview>
+</mdRecord>

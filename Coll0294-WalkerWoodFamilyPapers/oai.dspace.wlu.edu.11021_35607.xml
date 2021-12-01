@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b04_f079_002</dcterms:identifier>
+<edm:isShownAt>https://dspace.wlu.edu/handle/11021/35607</edm:isShownAt>
+<dcterms:title>Edward and Rodney Wood visit Santa, 1967 (photograph)</dcterms:title>
+<dcterms:type>Image</dcterms:type>
+<dcterms:subject>Department store Santas</dcterms:subject>
+<dcterms:subject>Wood, Edward</dcterms:subject>
+<dcterms:subject>Wood, Rodney</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/47461712-c5f1-49e3-a7d1-93cdf3eb9299/retrieve</edm:preview>
+</mdRecord>

@@ -3,10 +3,9 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b01_f014_001 35261</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b01_f014_001</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35261</edm:isShownAt>
-<dcterms:description>This is a contract made April 23, 1919 for H. L. Walker to supply "fresh meats" to V.M.I.  The envelope specifies the dates as September 1, 1919 to January 1, 1920 but the contract specifies September 1, 1919 to Ausgust 31, 1920.   It is signed by E. W. Nichols (?), Superintendent, V.M.I. and H. L. Walker.  This envelope has a handwritten direction:  "Contract for meat at V.M.I., Sept. 1, 1919 -- Jan. 1, 1920, Harry L. Walker -- V.M.I."</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:title>Contract to Supply Meat to V.M.I., April 23, 1919</dcterms:title>
 <dcterms:type>Text</dcterms:type>

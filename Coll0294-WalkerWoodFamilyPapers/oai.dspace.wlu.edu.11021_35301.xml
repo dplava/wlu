@@ -3,10 +3,9 @@
 <mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
-<dcterms:isPartOf>Walker-Wood Family Papers</dcterms:isPartOf>
-<dcterms:identifier>WLUColl0294_b02_f054_002 35301</dcterms:identifier>
+<dcterms:isPartOf>Walker-Wood Family Papers, 1910-1975</dcterms:isPartOf>
+<dcterms:identifier>WLUColl0294_b02_f054_002</dcterms:identifier>
 <edm:isShownAt>https://dspace.wlu.edu/handle/11021/35301</edm:isShownAt>
-<dcterms:description>This is the front of a printed post card.  It outlines a program entitled, "The Varying Meanings of Freedom for the African-Amerian Community in Lexington and Rockbridge County from the American Revolution to World War I."  On the back of the post card the return address is:  Rockbridge Historical Society, P. O. Box 514, Lexington, Virginia 24450-0514."  There is an image of a building with the following caption:  This building, once located on Randolph Street, served as Lexington's African-American school from 1865 to 1927.  (Photo from the Jackson Davis Collection [MSS 3072], Special Collections Department, University of Virginia Library.)</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:title>Postcard for Program on Varying Meanings of Freedom</dcterms:title>
 <dcterms:type>Text</dcterms:type>
@@ -14,5 +13,5 @@
 <dcterms:subject>Virginia -- Lexington</dcterms:subject>
 <dcterms:subject>Rockbridge Historical Society</dcterms:subject>
 <dcterms:subject>African Americans -- Civil rights</dcterms:subject>
-<edm:preview>https://dspace.wlu.edu/rest/bitstreams/506bacd6-c7d7-42c3-a6fd-9d1c20abc54c/retrieve</edm:preview>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/ee29e752-f9f1-4f90-b3b9-a27ebaf827db/retrieve</edm:preview>
 </mdRecord>
