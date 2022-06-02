@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1865-02-04</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b02_f106_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21929</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/21929</edm:isShownAt>
 <dcterms:description>Robert E. Lee gives General William Henry Fitzhugh Lee, also known as William "Rooney" Lee, permission for the impressment of African Americans for repairing railroad lines (Weldon Railroad) around Petersburg.  This note is the draft of a telegram and is neither physically written nor signed by Lee himself.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Weldon Railroad (Petersburg, Va.)</dcterms:subject>
@@ -16,7 +16,7 @@
 <dcterms:subject>Lee, William Henry Fitzhugh, 1837-1891</dcterms:subject>
 <dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
 <dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
-<dcterms:title>Draft of telegram to General William Henry Fitzhugh Lee, February 4, 1865 (correspondence)</dcterms:title>
+<dcterms:title>Draft of telegram from R. E. Lee to General William Henry Fitzhugh Lee, February 4, 1865 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/0ce906fe-54c8-42de-9fce-1655aa611827/retrieve</edm:preview>
 </mdRecord>

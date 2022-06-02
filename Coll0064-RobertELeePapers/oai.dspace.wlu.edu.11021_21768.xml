@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1864-08-13</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b02_f95_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21768</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/21768</edm:isShownAt>
 <dcterms:description>Lee provides his opinion on potential military promotions and raises a concern for the lack of discipline he is noticing within his army. Further, he faults unnamed brigadier generals for not instilling  discipline or modeling proper behavior in camp that promotes it. He praises General George Steuart and ends with describing his observations of military action in and around Petersburg.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
@@ -17,7 +17,7 @@
 <dcterms:subject>Military discipline -- United States -- History -- 19th century</dcterms:subject>
 <dcterms:subject>Steuart, George H. (George Hume), 1828 - 1903</dcterms:subject>
 <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
-<dcterms:title>Letter to (C.S.A) President Jefferson Davis, August 13, 1864 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to (C.S.A) President Jefferson Davis, August 13, 1864 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/e9b69c28-ed13-4042-a02a-6aa5e9c784df/retrieve</edm:preview>
 </mdRecord>

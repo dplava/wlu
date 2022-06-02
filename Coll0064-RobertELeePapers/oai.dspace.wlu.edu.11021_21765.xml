@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1864-08-04</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b02_f93_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21765</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/21765</edm:isShownAt>
 <dcterms:description>This letter is not in Lee's hand, though it is signed by him.  Lee writes to inform Davis of Federal troop movements.  Lee also details General Jubal Early's situation in the area of Chambersburg, Pennsylvania.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
@@ -16,7 +16,7 @@
 <dcterms:subject>Early, Jubal Anderson, 1816-1894</dcterms:subject>
 <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
 <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dcterms:subject>
-<dcterms:title>Letter to (C.S.A.) President Jefferson Davis, August 4, 1864 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to (C.S.A.) President Jefferson Davis, August 4, 1864 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/db6a4195-7ef2-46b1-85d3-c5ae954b6708/retrieve</edm:preview>
 </mdRecord>

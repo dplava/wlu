@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1865-01-04</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b02_f102_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21919</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/21919</edm:isShownAt>
 <dcterms:description>Lee sends Early orders pertaining to the need for fresh cavalry horses, and orders two cavalry brigades east from the Shenandoah Valley to Richmond.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Payne, William H. F. (William Henry Fitzhugh), 1830-1904</dcterms:subject>
@@ -16,7 +16,7 @@
 <dcterms:subject>Confederate States of America. Army. Cavalry</dcterms:subject>
 <dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
 <dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
-<dcterms:title>Letter to General Jubal A. Early, January 4, 1865 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to General Jubal A. Early, January 4, 1865 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/62d21c90-b585-42c7-82c1-41220133d845/retrieve</edm:preview>
 </mdRecord>

@@ -5,14 +5,14 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1854-03-29</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b01_f26_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/20904</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/20904</edm:isShownAt>
 <dcterms:description>Lee writes a recommendation for a noteworthy West Point cadet.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Bursley, A. A.</dcterms:subject>
 <dcterms:subject>United States Military Academy -- Students</dcterms:subject>
-<dcterms:title>Letter to Unknown, March 29, 1854 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to Unknown, March 29, 1854 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/9895f70d-c5f7-4712-86d0-1da8b147546a/retrieve</edm:preview>
 </mdRecord>

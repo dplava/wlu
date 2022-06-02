@@ -5,15 +5,15 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1861-07-24</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b01_f48_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/21197</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/21197</edm:isShownAt>
 <dcterms:description>Lee thanks Ellis for a gift of books.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Ellis, Thomas H. (Thomas Harding), 1814-1898</dcterms:subject>
 <dcterms:subject>Books</dcterms:subject>
 <dcterms:subject>Thank-you notes</dcterms:subject>
-<dcterms:title>Letter to Colonel Thomas H. Ellis, July 24, 1861 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to Colonel Thomas H. Ellis, July 24, 1861 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/665cf07b-9e9f-4820-a52c-db0f33ff5461/retrieve</edm:preview>
 </mdRecord>

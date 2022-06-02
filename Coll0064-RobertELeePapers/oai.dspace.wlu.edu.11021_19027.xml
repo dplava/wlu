@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1862-09-03</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b01_f66_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19027</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/19027</edm:isShownAt>
 <dcterms:description>This letter though dictated and signed by Lee, was penned by one of his staff members.  Lee reports to Jefferson Davis on the Second Battle of Manassas or Second Bull Run.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
@@ -15,7 +15,7 @@
 <dcterms:subject>Military planning -- United States -- History -- 19th century</dcterms:subject>
 <dcterms:subject>Confederate States of America. Army -- Officers -- Correspondence</dcterms:subject>
 <dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
-<dcterms:title>Letter to (C.S.A.) President Jefferson Davis, September 3, 1862 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to (C.S.A.) President Jefferson Davis, September 3, 1862 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/aff8e6cc-a7c4-472a-89d9-ae40e00b4c78/retrieve</edm:preview>
 </mdRecord>

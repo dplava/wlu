@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1864-04-15</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b02_f85_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/19029</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/19029</edm:isShownAt>
 <dcterms:description>Lee writes to Davis on situations in all theatres of the War. Some detail is given to Federal operations in South Carolina.</dcterms:description>
 <dcterms:description>There are several files available including a transcript as a PDF.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
@@ -15,7 +15,7 @@
 <dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
 <dcterms:subject>Confederate States of America -- History, Military</dcterms:subject>
 <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
-<dcterms:title>Letter to (C.S.A.) President Jefferson Davis, April 15, 1864 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to (C.S.A.) President Jefferson Davis, April 15, 1864 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/8429211a-d4be-41a4-9753-3e68f2462048/retrieve</edm:preview>
 </mdRecord>

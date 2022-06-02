@@ -5,15 +5,15 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1855-02-28</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b01_f31_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/20905</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/20905</edm:isShownAt>
 <dcterms:description>Lee writes to Secretary of War Jefferson Davis recommending his relative for an Army appointment.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Lee, William F.</dcterms:subject>
 <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
 <dcterms:subject>Virginia Military Institute</dcterms:subject>
-<dcterms:title>Letter to Jefferson Davis, February 28, 1855 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to Jefferson Davis, February 28, 1855 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/d45cc5f3-1f9e-4981-b6f1-53e7cb8cb68a/retrieve</edm:preview>
 </mdRecord>

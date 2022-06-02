@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1848-02-29</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b01_f10_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/18604</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/18604</edm:isShownAt>
 <dcterms:description>In this touching letter, written 27 days after the Mexican-American War had ended, Lee writes to his daughter Annie Carter from his temporary quarters at his post in Mexico City.</dcterms:description>
 <dcterms:description>The available files include a transcript and image files for each page, created by scanning the original document.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
@@ -17,7 +17,7 @@
 <dcterms:subject>Lee, Agnes, 1841-1873</dcterms:subject>
 <dcterms:subject>Mexican War, 1846-1848</dcterms:subject>
 <dcterms:subject>Backyard gardens -- Mexico -- 19th century</dcterms:subject>
-<dcterms:title>Letter to Annie Carter Lee, February 29, 1848 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to Annie Carter Lee, February 29, 1848 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/eaf5f067-664c-4d7c-acc5-a1a9f5d9d6bc/retrieve</edm:preview>
 </mdRecord>

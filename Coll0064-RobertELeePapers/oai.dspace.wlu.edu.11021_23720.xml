@@ -5,9 +5,9 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1870-09-09</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b04_f300_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/23720</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/23720</edm:isShownAt>
 <dcterms:description>Lee updates a family friend on the Lee family's activities over the previous summer. He mentions travels and visits to healing springs, etc. Lee provides short commentary on the Franco-Prussian War (1870-1871). He also mentions that Mrs. Albert Sidney Johnston and friends are guests of his in Lexington.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Smith, Maggie</dcterms:subject>
@@ -16,7 +16,7 @@
 <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870 -- Family</dcterms:subject>
 <dcterms:subject>Franco-Prussian War, 1870-1871</dcterms:subject>
 <dcterms:subject>Mineral waters -- Virginia</dcterms:subject>
-<dcterms:title>Letter to Miss Maggie Smith, September 9, 1870 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to Miss Maggie Smith, September 9, 1870 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/9bfebaf1-9ff6-40d0-93a9-afdaa9a6223e/retrieve</edm:preview>
 </mdRecord>

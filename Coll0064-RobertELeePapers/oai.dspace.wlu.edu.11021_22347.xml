@@ -5,14 +5,14 @@
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Robert E. Lee Papers</dcterms:isPartOf>
 <dcterms:medium>nonprojected graphic</dcterms:medium>
-<dcterms:created>1866-03-21</dcterms:created>
+<dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
 <dcterms:identifier>WLUcoll0064_b03_f156_01</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/22347</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/22347</edm:isShownAt>
 <dcterms:description>Lee sends a list of published Civil War battle reports which he hopes to acquire from Folkes.</dcterms:description>
 <dcterms:language>en_US</dcterms:language>
 <dcterms:subject>Folkes, William J.</dcterms:subject>
 <dcterms:subject>Confederate States of America -- History, Military -- Sources</dcterms:subject>
-<dcterms:title>Letter to William J. Folkes, March 21, 1866 (correspondence)</dcterms:title>
+<dcterms:title>Letter from R. E. Lee to William J. Folkes, March 21, 1866 (correspondence)</dcterms:title>
 <dcterms:type>Text</dcterms:type>
 <edm:preview>https://dspace.wlu.edu/rest/bitstreams/1a1c289e-4e43-4430-97ba-b403a0f9ec59/retrieve</edm:preview>
 </mdRecord>
