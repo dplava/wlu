@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Dr. Sidney Isenberg Collection on Carson McCullers Papers, 1948-1971</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:created>1948-03-09</dcterms:created>
+<dcterms:identifier>WLUcoll0097_b01_f002_001</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/11021/23875</edm:isShownAt>
+<dcterms:description>McCullers recounts her original meeting with Tennessee [Williams] and mentions the possibility of visiting him in Italy.  She also recounts problems involving a collaboration on her play, The Member of the Wedding.</dcterms:description>
+<dcterms:description>There are several files available. There is one JPG image for each page of the original document. One PDF was created from scans of the original document and includes all pages.  The other PDF is a transcription from the original.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Letter from Carson McCullers to Dr. Sidney Isenberg, March 9, 1948 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/bc7959a9-fc69-40aa-bb3a-72a39bec7a5e/retrieve</edm:preview>
+</mdRecord>

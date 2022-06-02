@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Ted Barclay Correspondence, 1861-1864</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:identifier>WLUcoll0002_b01_f14_01</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/11021/5570</edm:isShownAt>
+<dcterms:description>Describes skirmish with Union III Corps and the construction of entrenchments south of Rapidan River. Mourns death of George Chapin and the dissolute life of his brother, Elihu H. Barclay.</dcterms:description>
+<dcterms:description>There are three files available: a PDF transcription, a plain text transcription, and a PDF which was created from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Confederate States of America. Army. Liberty Hall Volunteers</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:subject>Rockbridge County (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Virginia -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>French, Samuel Gibbs, 1818-1910</dcterms:subject>
+<dcterms:subject>Hill, A. P. (A. Powell)</dcterms:subject>
+<dcterms:subject>Johnston, Joseph E. (Joseph Eggleston), 1807-1891</dcterms:subject>
+<dcterms:subject>Walker, James Alves, 1835-</dcterms:subject>
+<dcterms:subject>Germana Ford (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Rapidan River Valley (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:title>Letter from Ted Barclay to Hannah Moore Barclay, December 5, 1863 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Letters</dcterms:subject>
+<dcterms:subject>Barclay, Ted, 1844-1915</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/a3e60d98-1d82-428f-a04b-38e6268d68d7/retrieve</edm:preview>
+</mdRecord>

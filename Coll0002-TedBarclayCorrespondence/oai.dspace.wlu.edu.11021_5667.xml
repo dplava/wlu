@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Ted Barclay Correspondence, 1861-1864</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:identifier>WLUcoll0002_b01_f10_03</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/11021/5667</edm:isShownAt>
+<dcterms:description>Describes march (into Pennsylvania). Reports prisoners captured, artillery and banners seized. Anticipates battle. Reports rumor that Grant captured (at Vicksburg).</dcterms:description>
+<dcterms:description>There are three files available: a PDF transcription, a plain text transcription, and a PDF which was created from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Confederate States of America. Army. Liberty Hall Volunteers</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:subject>Rockbridge County (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Early, Jubal Anderson, 1816-1894</dcterms:subject>
+<dcterms:subject>Ewell, Richard Stoddert, 1817-1872</dcterms:subject>
+<dcterms:subject>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dcterms:subject>
+<dcterms:subject>Jackson, Stonewall, 1824-1863</dcterms:subject>
+<dcterms:subject>Johnston, Joseph E. (Joseph Eggleston), 1807-1891</dcterms:subject>
+<dcterms:subject>Milroy, Robert Huston, 1816-1890</dcterms:subject>
+<dcterms:subject>Rodes, Robert Emmett, 1829-1864</dcterms:subject>
+<dcterms:subject>Sharpsburg (Md.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Fredericksburg (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Spotsylvania Court House (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Orange Court House (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Sperryville (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Warrenton (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Washington (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Front Royal (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Martinsburg (W.Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Harpers Ferry (W.Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Shepherdstown (W.Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Richmond (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Rappahannock County (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Rapidan River Valley (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Blue Ridge Mountains  -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Shenandoah River Valley (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Potomac River Valley (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Winchester, 2nd Battle of, Winchester, Va., 1863</dcterms:subject>
+<dcterms:subject>Virginia -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:title>Letter from Ted Barclay to Hannah Moore Barclay, June 19, 1863 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Letters</dcterms:subject>
+<dcterms:subject>Barclay, Ted, 1844-1915</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/96d29463-222a-4be3-a610-194684a74953/retrieve</edm:preview>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Ted Barclay Correspondence, 1861-1864</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:identifier>WLUcoll0002_b01_f13_06</dcterms:identifier>
+<edm:isShownAt>http://hdl.handle.net/11021/5564</edm:isShownAt>
+<dcterms:description>Describes construction of entrenchments south of Rapidan River. Sneers at Rockbridge Home Guard.</dcterms:description>
+<dcterms:description>There are three files available: a PDF transcription, a plain text transcription, and a PDF which was created from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:subject>Rockbridge County (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Confederate States of America. Army. Liberty Hall Volunteers</dcterms:subject>
+<dcterms:subject>United States -- History -- Civil War, 1861-1865 -- Correspondence</dcterms:subject>
+<dcterms:subject>Virginia -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Averell, William Woods, 1832-1900</dcterms:subject>
+<dcterms:subject>Rapidan River Valley (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Chancellorsville (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Liberty Mills (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Madison County (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:subject>Fredericksburg (Va.) -- History -- Civil War, 1861-1865</dcterms:subject>
+<dcterms:title>Letter from Ted Barclay to Hannah Moore Barclay, November 19, 1863 (correspondence)</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+<dcterms:subject>Letters</dcterms:subject>
+<dcterms:subject>Barclay, Ted, 1844-1915</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/b1431e13-e889-4e3c-805a-5fe740ab4e95/retrieve</edm:preview>
+</mdRecord>
