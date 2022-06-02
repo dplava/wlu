@@ -4,11 +4,12 @@
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Michael Miley Photographic Collection</dcterms:isPartOf>
+<dcterms:creator>Miley, Michael, 1841-1918</dcterms:creator>
 <dcterms:identifier>WLU_PP0006_A2-68</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/26540</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/26540</edm:isShownAt>
 <dcterms:description>These pictures are portraits of Robert P. Ashley when he was a student. In one pose he is wearing a sports uniform and in the other he is dressed for Commencement. These prints were made from the original glass plate negatives, which are housed at Virginia Historical Society.</dcterms:description>
 <dcterms:title>Portraits of Robert P. Ashley (photographs)</dcterms:title>
-<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>StillImage</dcterms:type>
 <dcterms:subject>Portrait photography</dcterms:subject>
 <dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
 <dcterms:subject>Twentieth century</dcterms:subject>

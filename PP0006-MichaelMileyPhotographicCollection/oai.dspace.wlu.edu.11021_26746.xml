@@ -4,11 +4,12 @@
 <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
 <dcterms:provenance>Washington and Lee University</dcterms:provenance>
 <dcterms:isPartOf>Michael Miley Photographic Collection</dcterms:isPartOf>
+<dcterms:creator>Miley, Michael, 1841-1918</dcterms:creator>
 <dcterms:identifier>WLU_PP0006_A5-16</dcterms:identifier>
-<edm:isShownAt>https://dspace.wlu.edu/xmlui/handle/11021/26746</edm:isShownAt>
+<edm:isShownAt>http://hdl.handle.net/11021/26746</edm:isShownAt>
 <dcterms:description>These pictures are portraits of Tom Bledsoe and two teammates wearing football uniforms.  In Pose 1, they are holding a starting position.  In Pose 2, they are standing.  These prints were made from the original glass plate negatives, which are housed at Virginia Historical Society.</dcterms:description>
 <dcterms:title>Portraits of Tom Bledsoe and Two Others (photographs)</dcterms:title>
-<dcterms:type>Still Image</dcterms:type>
+<dcterms:type>StillImage</dcterms:type>
 <dcterms:subject>Portrait photography</dcterms:subject>
 <dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
 <dcterms:subject>Twentieth century</dcterms:subject>
