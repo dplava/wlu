@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Hugh Adams Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Chafin, Charles A.</dcterms:creator>
+<dcterms:identifier>WLUcoll0373_b01_f11_001</dcterms:identifier>
+<edm:isShownAt>https://hdl.handle.net/11021/34303</edm:isShownAt>
+<dcterms:description>This document was issued and signed by Charles A. Chafin, the Clerk of the County Court of Rockbridge.  The document asserts that Joshua Johnson is a free man of colour, aged twenty one years.  He was emancipated by Robert Hutcheson, Executor of the last will and testament of Hugh Adams, deceased.</dcterms:description>
+<dcterms:description>The available file is a PDF made from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Emancipation Certificate for Joshua Johnson, April 2, 1860</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+
+<dcterms:subject>Legacies</dcterms:subject>
+<dcterms:subject>Slavery</dcterms:subject>
+<dcterms:subject>Slaves -- Emancipation</dcterms:subject>
+<dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/9a3418c4-d766-49ae-9318-276efc370e03/retrieve</edm:preview>
+</mdRecord>

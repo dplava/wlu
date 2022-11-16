@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Hugh Adams Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Estate of Hugh Adams</dcterms:creator>
+<dcterms:identifier>WLUcoll0373_b01_f14_005</dcterms:identifier>
+<edm:isShownAt>https://hdl.handle.net/11021/34323</edm:isShownAt>
+<dcterms:description>This list includes various purchases by Scylla from A. M. Carson for July through November of 1859.  The total amount was $41.41.</dcterms:description>
+<dcterms:description>The available file is a PDF made from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Invoice from A. M. Carson for Scylla, 1859</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+
+<dcterms:subject>Legacies</dcterms:subject>
+<dcterms:subject>Slavery</dcterms:subject>
+<dcterms:subject>Slaves -- Emancipation</dcterms:subject>
+<dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/5eaac0dd-0e1d-4cc1-a21b-631c3374fe72/retrieve</edm:preview>
+</mdRecord>

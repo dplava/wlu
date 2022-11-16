@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Hugh Adams Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Unknown</dcterms:creator>
+<dcterms:identifier>WLUcoll0373_Portrait_Adams</dcterms:identifier>
+<edm:isShownAt>https://hdl.handle.net/11021/33666</edm:isShownAt>
+<dcterms:description>This portrait of Hugh Adams, Sr. is from a carte de visite photograph.  The original is owned by Hugh Adams, IV and the image (scanned from the original) is provided here with his permission.</dcterms:description>
+<dcterms:title>Portrait of Hugh Adams, Sr. (photograph)</dcterms:title>
+<dcterms:type>Still Image</dcterms:type>
+
+<dcterms:subject>Photographs</dcterms:subject>
+<dcterms:subject>Carte de visite photographs</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/b290d23d-b8dd-4dd2-91e6-e8ab54993490/retrieve</edm:preview>
+</mdRecord>

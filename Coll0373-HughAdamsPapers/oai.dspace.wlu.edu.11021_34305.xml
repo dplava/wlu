@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="dplava.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:edm="http://www.europeana.eu/schemas/edm/" xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava.xsd">
+<dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+<dcterms:provenance>Washington and Lee University</dcterms:provenance>
+<dcterms:isPartOf>Hugh Adams Papers</dcterms:isPartOf>
+<dcterms:medium>nonprojected graphic</dcterms:medium>
+<dcterms:creator>Estate of Hugh Adams</dcterms:creator>
+<dcterms:identifier>WLUcoll0373_b01_f12_002</dcterms:identifier>
+<edm:isShownAt>https://hdl.handle.net/11021/34305</edm:isShownAt>
+<dcterms:description>This is a statement issued by Robert Hutcheson of charges incurred by Mary Lewis.  This includes passage to Liberia and seems to settle the balance of the account.  The document was witnessed by W. McLain, Fin. Sec. A. C. S. (American Colonization Society).</dcterms:description>
+<dcterms:description>The available file is a PDF made from scans of the original document.</dcterms:description>
+<dcterms:language>en_US</dcterms:language>
+<dcterms:title>Final Statement for Mary, April 19, 1860</dcterms:title>
+<dcterms:type>Text</dcterms:type>
+
+<dcterms:subject>Legacies</dcterms:subject>
+<dcterms:subject>Slavery</dcterms:subject>
+<dcterms:subject>Slaves -- Emancipation</dcterms:subject>
+<dcterms:subject>Virginia -- Rockbridge County</dcterms:subject>
+<dcterms:subject>American Colonization Society</dcterms:subject>
+<edm:preview>https://dspace.wlu.edu/rest/bitstreams/cfd2c90c-7ae7-4b28-9931-38b93f529ef2/retrieve</edm:preview>
+</mdRecord>
